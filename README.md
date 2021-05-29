@@ -1,3 +1,5 @@
+[Leia em Português](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
+
 # Donations
 
 Here you can make donations of any amount to keep [**Snakypy**](https://github.com/snakypy) active. The price of a coffee already helps us. :coffee:
