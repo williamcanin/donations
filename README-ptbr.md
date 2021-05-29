@@ -37,6 +37,6 @@ Você pode escolher uma das formas abaixo:
 </table>
 </div>
 
-Após doar, crie uma [issue](https://github.com/williamcanin/donations/issues) informando qual projeto você fez a doação.
+Após doar, crie uma [issue](https://github.com/williamcanin/donations/issues) informando qual projeto você fez a doação e a data da doação, para eu ter o controle de qual projeto recebou a doação.
 
 Obrigado por estar aqui. :smiley:
