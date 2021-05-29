@@ -2,7 +2,7 @@
 
 # Doações
 
-Aqui você pode fazer doações de qualquer quantia para manter meus projetos ativo. O preço do café já me ajuda. :coffee:
+Aqui você pode fazer doações de qualquer quantia para manter o projeto ativo. O preço do café já me ajuda. :coffee:
 
 Você pode escolher uma das formas abaixo:
 
@@ -36,5 +36,7 @@ Você pode escolher uma das formas abaixo:
   </tbody>
 </table>
 </div>
+
+Após doar, crie uma [issue](https://github.com/williamcanin/donations/issues) informando qual projeto você fez a doação.
 
 Obrigado por estar aqui. :smiley:
