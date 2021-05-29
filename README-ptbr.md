@@ -2,7 +2,7 @@
 
 # Doações
 
-Aqui você pode fazer doações de qualquer quantia para manter [**Snakypy**](https://github.com/snakypy) ativo. O preço do café já nos ajuda. :café:
+Aqui você pode fazer doações de qualquer quantia para manter [**Snakypy**](https://github.com/snakypy) ativo. O preço do café já nos ajuda. :coffee:
 
 Você pode escolher uma das formas abaixo:
 
