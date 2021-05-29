@@ -10,9 +10,9 @@ Você pode escolher uma das formas abaixo:
 <table border="1">
   <thead>
     <tr>
-      <th>Using PayPal (USD)</th>
-      <th>Using PicPay (BRL)</th>
-      <th>Using Nubank (BRL)</th>
+      <th>Usando PayPal (USD)</th>
+      <th>Usando PicPay (BRL)</th>
+      <th>Usando Nubank (BRL)</th>
     </tr>
   </thead>
   <tbody>
