@@ -37,4 +37,6 @@ You can choose one of the shapes below:
 </table>
 </div>
 
+**NOTE:** After donating, create an [issue](https://github.com/williamcanin/donations/issues) informing which project you made the donation and the date of the donation, so that I have control of which project received the donation.
+
 Thank you just for being here. :smiley:
