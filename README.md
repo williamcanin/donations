@@ -2,11 +2,13 @@
 
 Here you can make donations of any amount to keep [**Snakypy**](https://github.com/snakypy) active. The price of a coffee already helps us. :coffee:
 
+You can choose one of the shapes below:
+
 <div class="donation">
 <table border="1">
   <thead>
     <tr>
-      <th>Using PayPal</th>
+      <th>Using PayPal (USD)</th>
       <th>Using PicPay (BRL)</th>
       <th>Using Nubank (BRL)</th>
     </tr>
