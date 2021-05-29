@@ -4,7 +4,7 @@
 
 Aqui você pode fazer doações de qualquer quantia para manter o projeto ativo. O preço do café já me ajuda. :coffee:
 
-Você pode escolher uma das formas abaixo:
+Você pode escolher uma das formas abaixo clicando na imagem:
 
 <div class="donation">
 <table border="1">
