@@ -1,6 +1,6 @@
 # Donations
 
-Here you can make donations of any amount to keep Snakypy active. The price of a coffee already helps us. :coffee: :smiley:
+Here you can make donations of any amount to keep [**Snakypy**](https://github.com/snakypy) active. The price of a coffee already helps us. :coffee:
 
 <div class="donation">
 <table border="1">
@@ -32,3 +32,5 @@ Here you can make donations of any amount to keep Snakypy active. The price of a
   </tbody>
 </table>
 </div>
+
+Thank you just for being here. :smiley:
