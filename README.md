@@ -25,7 +25,7 @@ Here you can make donations of any amount to keep Snakypy active. The price of a
      </td>
      <td>
         <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
-          <img width="120" height="40" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/logo-nubank.svg" alt="Nubank Donation">
+          <img width="auto" height="60" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/logo-nubank.svg" alt="Nubank Donation">
        </a>
      </td>
    </tr>
