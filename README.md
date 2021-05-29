@@ -1,8 +1,8 @@
-[Leia em Português](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
+[Leia em Português](https://github.com/williamcanin/donations/blob/master/README-ptbr.md)
 
 # Donations
 
-Here you can make donations of any amount to keep [**Snakypy**](https://github.com/snakypy) active. The price of a coffee already helps us. :coffee:
+Here you can make donations of any amount to keep this project active. The price of coffee helps me. :coffee:
 
 You can choose one of the shapes below:
 
@@ -19,17 +19,17 @@ You can choose one of the shapes below:
     <tr>
       <td>
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YBK2HEEYG8V5W&source" target="_blank">
-          <img src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/paypal.svg" alt="PayPal Donation"
+          <img src="https://raw.githubusercontent.com/williamcanin/donations/master/svg/banks/paypal.svg" alt="PayPal Donation"
         </a>
       </td>
       <td>
         <a href="https://app.picpay.com/user/williamcanin" target="_blank">
-          <img width="120" height="40" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/picpay.svg" alt="PicPay Donation">
+          <img width="120" height="40" src="https://raw.githubusercontent.com/williamcanin/donations/master/svg/banks/picpay.svg" alt="PicPay Donation">
        </a>
      </td>
      <td>
         <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
-          <img width="auto" height="60" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
+          <img width="auto" height="60" src="https://raw.githubusercontent.com/williamcanin/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
        </a>
      </td>
    </tr>
