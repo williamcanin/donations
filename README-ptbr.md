@@ -13,6 +13,7 @@ Você pode escolher uma das formas abaixo clicando na imagem:
       <th>Usando PayPal (USD)</th>
       <th>Usando PicPay (BRL)</th>
       <th>Usando Nubank (BRL)</th>
+      <th>Usando Bitcoin</th>
     </tr>
   </thead>
   <tbody>
@@ -31,6 +32,9 @@ Você pode escolher uma das formas abaixo clicando na imagem:
         <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
           <img width="auto" height="60" src="https://raw.githubusercontent.com/williamcanin/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
        </a>
+     </td>
+     <td>
+        <p align="center"> bc1qeetznlmqpjxguv3uh3qffvsvpfgwm2ezg85mgt</p>
      </td>
     <tr>
       <td></td>
