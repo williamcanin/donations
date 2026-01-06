@@ -42,7 +42,7 @@ ter o controle de qual projeto recebeu a doação, e colocar seu nome na CONTRIB
 
 ## USD Donations
 
-To make donations in PayPal(USD) and Bitcoin, visit: [Donate PayPal(USD)/Bitcoin](https://github.com/williamcanin/donations/blob/main/README.md)
+To make donations in PayPal(USD) and Bitcoin, visit: [Donate PayPal(USD) or Bitcoin](https://github.com/williamcanin/donations/blob/main/README.md)
 
 
 
