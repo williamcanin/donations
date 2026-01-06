@@ -9,8 +9,8 @@ Você pode escolher uma das opções abaixo escaneando o QR Code ou usando chave
 <table border="1">
   <thead>
     <tr>
-      <th>QR Code 1 (BRL)</th>
-      <th>QR Code 2 (BRL)</th>
+      <th>QR Code PIX (BRL)</th>
+      <th>QR Code PIX (BRL)</th>
       <th>Chave PIX (BRL)</th>
     </tr>
   </thead> 
