@@ -3,15 +3,15 @@
 Aqui você pode fazer doações de qualquer quantia para manter o projeto ativo.
 O preço do café já nos ajuda. :coffee:
 
-Você pode escolher uma das formas abaixo clicando na imagem:
+Você pode escolher uma das opções abaixo escaneando o QR Code ou usando chave para PIX:
 
 <div class="donation">
 <table border="1">
   <thead>
     <tr>
-      <th>Usando app PicPay (BRL)</th>
-      <th>Usando app Nubank (BRL)</th>
-      <th>Usando PIX (BRL)</th>
+      <th>QR Code 1 (BRL)</th>
+      <th>QR Code 2 (BRL)</th>
+      <th>Chave PIX (BRL)</th>
     </tr>
   </thead> 
   <tbody>
@@ -27,12 +27,8 @@ Você pode escolher uma das formas abaixo clicando na imagem:
        </a>
      </td>
      <td>
-          <p align="center"> <strong>Chave PIX:</strong><br/> b1cc1ef8-421a-4059-9ebc-99a5aec3ef43</p>
+          <p align="center"> b1cc1ef8-421a-4059-9ebc-99a5aec3ef43</p>
      </td>
-    <tr>
-      <td>Não têm? <a href="https://www.picpay.com/convite?PF4BCW" target="_blank">Crie</a> e receba bônus.</td>
-      <td>Não têm? <a href="https://nubank.com.br/indicacao/nu/?id=UOGZCLY2mWMAAAF5uWQb5A&msg=cb40c&utm_channel=social&utm_medium=referral&utm_source=mgm" target="_blank">Crie</a> e receba bônus</td>
-    </tr>
    </tr>
   </tbody>
 </table>
