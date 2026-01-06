@@ -46,7 +46,7 @@ name in the title, and in the description which project you made the donation an
 donation, so that we can have the control which project received the donation, and your name in the
 project's CONTRIBUTING.md.
 
-## Doação em BRL
+## Doação em moeda brasileira (BRL)
 
 Para doação em moeda `brasileira`, acesse: [Doação BRL](https://github.com/williamcanin/donations/blob/main/README-ptbr.md)
 
