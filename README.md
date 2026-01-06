@@ -25,7 +25,7 @@ You can choose one of the shapes below:
         <p align="center"> williamcanin@blink.sv</p>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="100" alt="QR Code Lightning"/>
+        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="120" alt="QR Code Lightning"/>
       </td>
    </tr>
     <!-- <tr>

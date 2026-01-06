@@ -13,21 +13,21 @@ Você pode escolher uma das formas abaixo clicando na imagem:
       <th>Usando app Nubank (BRL)</th>
       <th>Usando PIX (BRL)</th>
     </tr>
-  </thead>
+  </thead> 
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://app.picpay.com/user/williamcanin" target="_blank">
-          <img width="120" height="40" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/picpay.svg" alt="PicPay Donation">
+        <a href="https://picpay.onelink.me/kAIe/hrfzvmlc" target="_blank">
+          <img width="120" src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/picpay.jpg" alt="PicPay Donation">
        </a>
      </td>
      <td align="center">
         <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
-          <img width="auto" height="60" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
+          <img width="120" src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/nubank.jpg" alt="Nubank Donation">
        </a>
      </td>
      <td>
-          <p align="center"> <strong>Chave PIX:</strong><br/> ddc86c0a-eceb-4856-a9d5-951a9825a589</p>
+          <p align="center"> <strong>Chave PIX:</strong><br/> b1cc1ef8-421a-4059-9ebc-99a5aec3ef43</p>
      </td>
     <tr>
       <td>Não têm? <a href="https://www.picpay.com/convite?PF4BCW" target="_blank">Crie</a> e receba bônus.</td>
