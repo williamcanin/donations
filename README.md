@@ -10,25 +10,29 @@ You can choose one of the shapes below:
   <thead>
     <tr>
       <th>Using PayPal (USD)</th>
-      <th>Bitcoin Address</th>
+      <th>Bitcoin Address (Lightning)</th>
+      <th>Bitcoin QR Code (Lightning)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YBK2HEEYG8V5W&source" target="_blank">
-          <img src="https://raw.githubusercontent.com/snakypy/donations/main/svg/banks/paypal.svg" alt="PayPal Donation"/>
+          <img src="https://raw.githubusercontent.com/williamcanin/donations/main/svg/banks/paypal.svg" alt="PayPal Donation"/>
         </a>
       </td>
       <td>
-        <p align="center"> bc1qeetznlmqpjxguv3uh3qffvsvpfgwm2ezg85mgt</p>
+        <p align="center"> williamcanin@blink.sv</p>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="100" alt="QR Code Lightning"/>
       </td>
    </tr>
     <!-- <tr>
       <td>
       </td>
       <td>
-      <p align="center">Click <a href="https://raw.githubusercontent.com/snakypy/donations/main/images/qrcode_btc.png" target="_blank">here</a> to donate with QR Code</p>
+      <p align="center">Click <a href="https://raw.githubusercontent.com/williamcanin/donations/main/images/qrcode_btc.png" target="_blank">here</a> to donate with QR Code</p>
       </td>
     </tr> -->
   </tbody>
