@@ -23,8 +23,8 @@ You can choose one of the shapes below:
       </td>
       <td>
         <!-- <p align="center"> williamcanin@blink.sv</p> --> 
-        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="120" alt="QR Code Lightning Blink"/>
-        <p align="center"> williamcanin@blink.sv</p>
+        <img align="center" src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="120" alt="QR Code Lightning Blink"/>
+        <p align="center">Lightning Address: williamcanin@blink.sv</p>
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/wos.jpg" width="120" alt="QR Code Lightning WoS"/>
