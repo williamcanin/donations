@@ -21,9 +21,9 @@ You can choose one of the shapes below:
           <img src="https://raw.githubusercontent.com/williamcanin/donations/main/svg/banks/paypal.svg" alt="PayPal Donation"/>
         </a>
       </td>
-      <td style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="120" alt="QR Code Lightning Blink"/>
-        <p style="margin: 0;">williamcanin@blink.sv</p>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="120" alt="QR Code Lightning Blink"/><br/>
+        <sub>williamcanin@blink.sv</sub>
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/wos.jpg" width="120" alt="QR Code Lightning WoS"/>
