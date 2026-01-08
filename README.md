@@ -25,17 +25,11 @@ You can choose one of the shapes below:
         <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/blink.jpg" width="120" alt="QR Code Lightning Blink"/><br/>
         <sub>williamcanin@blink.sv</sub>
       </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/wos.jpg" width="120" alt="QR Code Lightning WoS"/>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/wos.jpg" width="120" alt="QR Code Lightning WoS"/><br/>
+        <sub>assuredarmy686@walletofsatoshi.com</sub>
       </td>
    </tr>
-    <!-- <tr>
-      <td>
-      </td>
-      <td>
-      <p align="center">Click <a href="https://raw.githubusercontent.com/williamcanin/donations/main/images/qrcode_btc.png" target="_blank">here</a> to donate with QR Code</p>
-      </td>
-    </tr> -->
   </tbody>
 </table>
 </div>
