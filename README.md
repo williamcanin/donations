@@ -27,7 +27,7 @@ You can choose one of the shapes below:
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/wos.jpg" width="120" alt="QR Code Lightning WoS"/><br/>
-        <sub>assuredarmy686@walletofsatoshi.com</sub>
+        <sub>williamcanin@walletofsatoshi.com</sub>
       </td>
    </tr>
   </tbody>
