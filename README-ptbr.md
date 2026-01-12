@@ -9,26 +9,15 @@ Você pode escolher uma das opções abaixo escaneando o QR Code ou usando chave
 <table border="1">
   <thead>
     <tr>
-      <th>QR Code PIX (BRL)</th>
-      <th>QR Code PIX (BRL)</th>
-      <th>Chave PIX (BRL)</th>
+      <th>QR Code e chave PIX (BRL)</th>
     </tr>
   </thead> 
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://picpay.onelink.me/kAIe/hrfzvmlc" target="_blank">
-          <img width="120" src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/picpay.jpg" alt="PicPay Donation">
-       </a>
-     </td>
-     <td align="center">
-        <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
-          <img width="120" src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/nubank.jpg" alt="Nubank Donation">
-       </a>
-     </td>
-     <td>
-          <p align="center"> b1cc1ef8-421a-4059-9ebc-99a5aec3ef43</p>
-     </td>
+        <img width="120" src="https://raw.githubusercontent.com/williamcanin/donations/main/qrcodes/inter.jpg" alt="Inter Donation"><br/>
+        <sub>00b53f61-b009-4f05-8c43-444cce86af1d</sub>
+      </td>
    </tr>
   </tbody>
 </table>
